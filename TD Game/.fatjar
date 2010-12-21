@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Wed Jul 23 10:32:10 BRT 2008
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=C\:\\Documents and Settings\\Mark\\Desktop\\TD Game.jar
+manifest.mergeall=true
+manifest.mainclass=td.gui.TDGame
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=
+includes=

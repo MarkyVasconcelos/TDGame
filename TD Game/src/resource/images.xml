@@ -1,0 +1,28 @@
+<images>
+	<list name="shoot">
+		<img src="/resource/images/shoot.PNG" name="shoot" />
+	</list>
+	<list name="bg">
+		<img src="/resource/images/background-tile.PNG" name="background" />
+	</list>
+	<list name="wall">
+		<img src="/resource/images/wall.png" name="wall" />
+	</list>
+	<stripe name="monster-basic" cols="3" lines="1">
+	<img src="/resource/images/monster_strip.png"/>
+	</stripe>
+	<stripe name="monster-fast" cols="3" lines="1">
+	<img src="/resource/images/monster-fast-strip.png"/>
+	</stripe>
+	<stripe name="monster-imune" cols="3" lines="1">
+	<img src="/resource/images/imune_strip.png"/>
+	</stripe>
+	<list name="towers">
+		<img src="/resource/images/tower.png" name="tower" />
+		<img src="/resource/images/tower_damage.png" name="tower_damage" />
+		<img src="/resource/images/tower_fire.png" name="tower_fire" />
+		<img src="/resource/images/tower_firerate.png" name="tower_firerate" />
+		<img src="/resource/images/tower_ice.png" name="tower_ice" />
+		<img src="/resource/images/tower_range.png" name="tower_range" />
+	</list>
+</images>
